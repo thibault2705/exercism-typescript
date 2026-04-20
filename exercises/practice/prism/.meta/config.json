@@ -2,6 +2,9 @@
   "authors": [
     "BNAndras"
   ],
+  "contributors": [
+    "thibault2705"
+  ],
   "files": {
     "solution": [
       "prism.ts"
