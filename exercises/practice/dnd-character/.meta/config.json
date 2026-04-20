@@ -3,6 +3,9 @@
     "JoshiRaez",
     "SleeplessByte"
   ],
+  "contributors": [
+    "thibault2705"
+  ],
   "files": {
     "solution": [
       "dnd-character.ts"
