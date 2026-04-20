@@ -31,3 +31,9 @@ description = "X wins using a convoluted path"
 
 [17e76fa8-f731-4db7-92ad-ed2a285d31f3]
 description = "X wins using a spiral path"
+
+[495e33ed-30a9-4012-b46e-d7c4d5fe13c3]
+description = "X wins with left-hand dead end fork"
+
+[ab167ab0-4a98-4d0f-a1c0-e1cddddc3d58]
+description = "X wins with right-hand dead end fork"
