@@ -121,4 +121,9 @@ describe('Bob', () => {
     const result = hey('This is a statement ending with whitespace      ')
     expect(result).toEqual('Whatever.')
   })
+
+  xit('multiple line question', () => {
+    const result = hey('\nDoes this cryogenic chamber make\n me look fat?')
+    expect(result).toEqual('Sure.')
+  })
 })

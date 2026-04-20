@@ -76,3 +76,6 @@ description = "other whitespace"
 
 [12983553-8601-46a8-92fa-fcaa3bc4a2a0]
 description = "non-question ending with whitespace"
+
+[2c7278ac-f955-4eb4-bf8f-e33eb4116a15]
+description = "multiple line question"
