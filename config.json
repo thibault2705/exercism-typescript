@@ -1572,7 +1572,12 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 4,
-        "topics": ["arrays", "conditionals", "filtering", "games"]
+        "topics": [
+          "arrays",
+          "conditionals",
+          "filtering",
+          "games"
+        ]
       }
     ]
   },
