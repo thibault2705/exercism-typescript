@@ -68,6 +68,9 @@ description = "sets with different elements are not equal"
 [06059caf-9bf4-425e-aaff-88966cb3ea14]
 description = "set is not equal to larger set with same elements"
 
+[d4a1142f-09aa-4df9-8b83-4437dcf7ec24]
+description = "set is equal to a set constructed from an array with duplicates"
+
 [8a677c3c-a658-4d39-bb88-5b5b1a9659f4]
 description = "add to empty set"
 
@@ -103,6 +106,9 @@ description = "difference of a non-empty set and an empty set is the non-empty s
 
 [c5ac673e-d707-4db5-8d69-7082c3a5437e]
 description = "difference of two non-empty sets is a set of elements that are only in the first set"
+
+[20d0a38f-7bb7-4c4a-ac15-90c7392ecf2b]
+descripton = "difference removes all duplicates in the first set"
 
 [c45aed16-5494-455a-9033-5d4c93589dc6]
 description = "union of empty sets is an empty set"
